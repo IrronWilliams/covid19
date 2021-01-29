@@ -31,23 +31,26 @@ export default function Home() {
         </p>
 
         <p>
-        I found my first Gatsby project interesting, fun and creatively challenging.  The Gatsby environment looks and feels a lot like React. The consistency between the two frameworks such as the use of props and components helps with understanding the Gatsby fundamentals. However, there is a lot to comprehend and the Gatsby learning curve is a bit steep. With that said, my learning was supported by the well explained documentation and tutorials. The docs provides details on styling, data management, plugins, deployment among other topics.  
+        I found my first Gatsby project interesting, fun and creatively challenging.  The Gatsby environment looks and feels a lot like React. The consistency between the two frameworks such as the use of props and components helps with understanding the Gatsby fundamentals. However, there is a lot to comprehend and the Gatsby learning curve is a bit steep. With that said, my learning was supported by the well explained documentation and tutorials. The docs provide details on styling, data management, plugins, deployment among other topics.  
         </p>
 
         <p>
-        Discovering Gatsby’s extensive plugin library was one of the high points with this project. I used a couple of CSS and UI plugins to experiment with both traditional and component-oriented styling. The different styling approaches were specifically applied to the data-grids displayed on the site. Overall, installing and using the plugins were straightforward. Some plugins had more installation and configurating steps than others. I was particularly interested in reviewing plugins specifically related to CMS and Analytics. This project does not make use of them. I intend to use more plugins in the future while working with richer COVID-19 datasets. The additional datasets will allow for deeper insights into the current state of the pandemic. 
+        Discovering Gatsby’s extensive plugin library was one of the high points with this project. I used a couple of CSS and UI plugins to experiment with both traditional and component-oriented styling. The different styling approaches were specifically applied to the data-grids displayed on the site. Overall, installing and using the plugins were straightforward. Some plugins had more installation and configurating steps than others. I was particularly interested in reviewing plugins specifically related to CMS and Analytics. This project does not make use of the CMS or Analytics plugins at the moment. I intend to use these plugins in the near future while working with richer COVID-19 datasets. The additional datasets will allow for deeper insights into the current state of the pandemic. 
         </p>
 
         <p> 
-        While working with web applications, having to build some sort of table or grid to visualize data becomes inevitable. It is possible to create a web based table using traditional table tags. Depending upon the dataset and site complexity, managing table tags can become complex and time consuming. In such a situation, a component library can save a significant amount of time. Instead of managing table tags, I opted to use the React Table library to display data from the publicly available datasets sourced from Johns Hopkins, The Center for Disease Control and The New York Times. I leveraged the collection of React hooks to build the tables. Gatsby made it seamless to incorporate the table library into my application.
+        While working with web applications, having to build some sort of table or grid to visualize data becomes inevitable. Although possible to create web based tables using traditional table tags, managing tables tags can become complex and time consuming. A component library can save a significant amount of time. I opted to use the React Table library to display data from the publicly available datasets sourced from Johns Hopkins, The Center for Disease Control and The New York Times. I leveraged the collection of React hooks to assist with the table builds. Gatsby made it seamless to incorporate the table library into my application.
         </p>
         
         <p>
-        I considered using D3.js (JavaScript data viz library) but opted not to. I knew I wanted to create non-complex data visualizations for this project and did not think the challenge of DOM management when integrating D3 with React was worth the squeeze. As a result, I opted to use ReCharts; a React-D3 library. Again, Gatsby made it easy to integrate the visualization library  into my application.   
+        I considered using D3.js (JavaScript data viz library) but opted not to. I knew I wanted to create non-complex data visualizations for this project. And did not think the challenge of DOM management when integrating D3 with React was worth the squeeze. As a result, I opted to use ReCharts; a React-D3 library. Again, Gatsby made it easy to integrate the visualization library  into my application.   
         </p>
 
         <p>
-        I thoroughly enjoyed my first experience developing my coronavirus pandemic website using Gatsby. Its benefits and features are impressive. Witnessing Gatsby's live reload feature immediately update my changes to the page when writing my local content was beneficial. I know I am just scratching the surface with Gatsby. I am looking forward to experiencing Gatsby’s other key benefits such as its intelligent image loading, asset optimization and data prefetching. I am excited to employ these features while I continue to enhance my pandemic website and develop other web applications in the future. I highly recommend Gatsby. I can’t wait to learn more. This is an incredible tool that is designed to enhance the user experience and build a better UI.
+        I thoroughly enjoyed my first experience developing my coronavirus pandemic website using Gatsby. Its benefits and features are impressive. Witnessing Gatsby's live reload feature immediately update my changes to the page when writing my local content was beneficial. I am looking forward to experiencing Gatsby’s other key benefits such as its intelligent image loading, asset optimization and data prefetching. I am looking forward to employing these features during the enhancement of my pandemic site. </p>
+        
+        <p>
+        Gatsby is an incredible framework that is designed to enhance the user experience and build a better UI.  I highly recommend it. I know I am just scratching the surface with Gatsby. I look forward to working with and learning more about it. 
         </p>
         <hr style={{width: `100%`, paddingBottom:`2.5px`, marginTop: `10px`}}></hr>
         <p></p>
@@ -80,7 +83,7 @@ export default function Home() {
           claimed over 346 thousand American lives.
         </p>
 
-        <p>As of late January 2021, the virus has claimed the lives of over 420 thousand 
+        <p>As of late January 2021, the virus has claimed the lives of over 429 thousand 
           Americans. The number of Americans that have died 
           from COVID-19 is approximately the population of Tampa, New Orleans, Cincinnati, 
           St. Louis or Pittsburgh. 
@@ -130,15 +133,14 @@ export default function Home() {
                 The rates of vaccination and allocated supply vary by state.  
               Each state received an amount of the vaccine in proportion to its population. 
               Per the CDC, Alaska, West Virginia and North Dakota are the among the states who have administered the 
-              highest rate of doses per 100,000 people. 
-              The state of Massachusets has administered doses less than half of the doses administered in 
-              Alaska.
-              Idaho, Alabama and Nevada are the states with the lowest vaccination rates.  
-              </p>
+              highest rate of doses per 100,000 people. </p>
 
-               <p>As states have expanding vaccine eligibility, some have struggled to manage the
-                 increase in demand. 
-               </p>
+              <p>
+            
+              As states expand their vaccine eligibility, some have struggled to manage the increase in demand. Idaho, Alabama and Nevada are the states with the lowest vaccination rates. The state of Massachusets  has administered doses less than half of the doses administered in 
+              Alaska.
+              </p>
+               
         </div>
 
         <div>

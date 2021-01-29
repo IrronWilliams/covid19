@@ -13,7 +13,7 @@ export default function About() {
 
       <p>Licensed Beds: Max number of beds for which a hospital holds a license to operate. This is the total number of licensed beds of individual hospitals within a given health system.</p>
 
-      <p>Bed Utilization: Bed Utilization Rate = Total Patient Days (excluding nursery days)/Bed Days Available.
+      <p>Bed Utilization: Rate = Total Patient Days (excluding nursery days)/Bed Days Available.
       </p>
   
       <p>Bed Capacity: The number of beds set up and staffed for use.
