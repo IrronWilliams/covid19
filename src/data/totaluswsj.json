@@ -1,0 +1,75 @@
+[
+ {
+   "year": 2020,
+   "month": "Jan",
+   "cases": 7,
+   "deaths": 0
+ },
+ {
+   "year": 2020,
+   "month": "Feb",
+   "cases": 70,
+   "deaths": 1
+ },
+ {
+   "year": 2020,
+   "month": "Mar",
+   "cases": 188461,
+   "deaths": 4304
+ },
+ {
+   "year": 2020,
+   "month": "Apr",
+   "cases": 1075756,
+   "deaths": 63140
+ },
+ {
+   "year": 2020,
+   "month": "May",
+   "cases": 1799302,
+   "deaths": 104379
+ },
+ {
+   "year": 2020,
+   "month": "Jun",
+   "cases": 2653321,
+   "deaths": 127462
+ },
+ {
+   "year": 2020,
+   "month": "Jul",
+   "cases": 4571669,
+   "deaths": 153862
+ },
+ {
+   "year": 2020,
+   "month": "Aug",
+   "cases": 6045455,
+   "deaths": 183472
+ },
+ {
+   "year": 2020,
+   "month": "Sep",
+   "cases": 7262734,
+   "deaths": 206852
+ },
+ {
+   "year": 2020,
+   "month": "Oct",
+   "cases": 9208964,
+   "deaths": 230510
+ },
+ {
+   "year": 2020,
+   "month": "Nov",
+   "cases": 13615129,
+   "deaths": 268023
+ },
+ {
+   "year": 2020,
+   "month": "Dec",
+   "cases": 20026223,
+   "deaths": 346039
+ }
+ 
+]

@@ -1,0 +1,102 @@
+[
+ {
+   "County": "Los Angeles",
+   "State": "CA",
+   "Confirmed Cases": "1,091,712"
+ },
+ {
+   "County": "Maricopa",
+   "State": "AZ",
+   "Confirmed Cases": "459,501"
+ },
+ {
+   "County": "Cook",
+   "State": "IL",
+   "Confirmed Cases": "448,546"
+ },
+ {
+   "County": "Miami-Dade",
+   "State": "FL",
+   "Confirmed Cases": "364,123"
+ },
+ {
+   "County": "Harris",
+   "State": "TX",
+   "Confirmed Cases": "306,495"
+ },
+ {
+   "County": "San Bernardino",
+   "State": "CA",
+   "Confirmed Cases": "269,314"
+ },
+ {
+   "County": "Riverside",
+   "State": "CA",
+   "Confirmed Cases": "268,490"
+ },
+ {
+   "County": "Dallas",
+   "State": "TX",
+   "Confirmed Cases": "252,047"
+ },
+ {
+   "County": "Orange",
+   "State": "CA",
+   "Confirmed Cases": "240,314"
+ },
+ {
+   "County": "San Diego",
+   "State": "CA",
+   "Confirmed Cases": "231,481"
+ },
+ {
+   "County": "Tarrant",
+   "State": "TX",
+   "Confirmed Cases": "211,076"
+ },
+ {
+   "County": "Clark",
+   "State": "NV",
+   "Confirmed Cases": "210,581"
+ },
+ {
+   "County": "Queens",
+   "State": "NY",
+   "Confirmed Cases": "171,214"
+ },
+ {
+   "County": "Broward",
+   "State": "FL",
+   "Confirmed Cases": "168,653"
+ },
+ {
+   "County": "Kings",
+   "State": "NJ",
+   "Confirmed Cases": "167,948"
+ },
+ {
+   "County": "Bexar",
+   "State": "TX",
+   "Confirmed Cases": "164,270"
+ },
+ {
+   "County": "Suffolk",
+   "State": "NY",
+   "Confirmed Cases": "138,812"
+ },
+ {
+   "County": "Salt Lake",
+   "State": "UT",
+   "Confirmed Cases": "128,020"
+ },
+ {
+   "County": "Nassau",
+   "State": "NY",
+   "Confirmed Cases": "124,119"
+ },
+ {
+   "County": "Bronx",
+   "State": "NY",
+   "Confirmed Cases": "114,800"
+ }
+]

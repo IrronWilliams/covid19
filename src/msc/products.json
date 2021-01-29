@@ -1,0 +1,20 @@
+[
+    {
+        "title": "OptionA",
+        "slug": "sluga",
+        "desc": "<p>DescA</p>",
+        "price": "$A"
+    },
+    {
+        "title": "OptionB",
+        "slug": "slugb",
+        "desc": "<p>DescB</p>",
+        "price": "$B"
+    },
+    {
+        "title": "OptionC",
+        "slug": "slugc",
+        "desc": "<p>DescC</p>",
+        "price": "$C"
+    }
+]

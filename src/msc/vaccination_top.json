@@ -1,0 +1,124 @@
+[
+    {
+        "state": "West Virginia",
+        "administered": 182460,
+        "vaccinated": 35991,
+        "vaccinatedpercent": 1.99
+      },
+      {
+        "state": "Alaska",
+        "administered": 81836,
+        "vaccinated": 14663,
+        "vaccinatedpercent": 1.98
+      },
+      {
+        "state": "North Dakota",
+        "administered": 68560,
+        "vaccinated": 10998,
+        "vaccinatedpercent": 1.44
+      },
+      {
+        "state": "Indiana",
+        "administered": 449958,
+        "vaccinated": 87506,
+        "vaccinatedpercent": 1.3
+      },
+      {
+        "state": "Maine",
+        "administered": 92008,
+        "vaccinated": 17248,
+        "vaccinatedpercent": 1.28
+      }, {
+        "state": "South Dakota",
+        "administered": 62365,
+        "vaccinated": 11285,
+        "vaccinatedpercent": 1.27
+      }, {
+        "state": "Vermont",
+        "administered": 46292,
+        "vaccinated": 8009,
+        "vaccinatedpercent": 1.27
+      },
+      {
+        "state": "Rhode Island",
+        "administered": 63152,
+        "vaccinated": 12515,
+        "vaccinatedpercent": 1.18
+      },
+      {
+        "state": "Colorado",
+        "administered": 375195,
+        "vaccinated": 61881,
+        "vaccinatedpercent": 1.08
+      },
+      {
+        "state": "Nebraska",
+        "administered": 121681,
+        "vaccinated": 19839,
+        "vaccinatedpercent": 1.02
+      },
+      {
+        "state": "Michigan",
+        "administered": 598127,
+        "vaccinated": 98667,
+        "vaccinatedpercent": 0.98
+      },
+      {
+        "state": "Missouri",
+        "administered": 265382,
+        "vaccinated": 58782,
+        "vaccinatedpercent": 0.95
+      },
+      {
+        "state": "Illinois",
+        "administered": 572389,
+        "vaccinated": 120944,
+        "vaccinatedpercent": 0.94
+      },
+      {
+        "state": "Montana",
+        "administered": 60389,
+        "vaccinated": 9962,
+        "vaccinatedpercent": 0.93
+      },
+      {
+        "state": "Wisconsin",
+        "administered": 285358,
+        "vaccinated": 51801,
+        "vaccinatedpercent": 0.89
+      },
+      {
+        "state": "Louisiana",
+        "administered": 301316,
+        "vaccinated": 40863,
+        "vaccinatedpercent": 0.87
+      },
+      {
+        "state": "Connecticut",
+        "administered": 264707,
+        "vaccinated": 28602,
+        "vaccinatedpercent": 0.8
+      },
+      {
+        "state": "Tennessee",
+        "administered": 396100,
+        "vaccinated": 53210,
+        "vaccinatedpercent": 0.78
+      },
+      {
+        "state": "Wyoming",
+        "administered": 33414,
+        "vaccinated": 4525,
+        "vaccinatedpercent": 0.78
+      },
+      {
+        "state": "New Hampshire",
+        "administered": 80639,
+        "vaccinated": 10319,
+        "vaccinatedpercent": 0.76
+      }
+
+
+
+
+]

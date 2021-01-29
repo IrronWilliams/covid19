@@ -1,0 +1,104 @@
+[
+ {
+   "County": "Los Angeles",
+   "State": "CA",
+   "Confirmed Deaths": "15,897"
+ },
+ {
+   "County": "Cook",
+   "State": "IL",
+   "Confirmed Deaths": "9,305"
+ },
+ {
+   "County": "Kings",
+   "State": "NJ",
+   "Confirmed Deaths": "8,278"
+ },
+ {
+   "County": "Queens",
+   "State": "NY",
+   "Confirmed Deaths": "8,033"
+ },
+ {
+   "County": "Maricopa",
+   "State": "AZ",
+   "Confirmed Deaths": "7,174"
+ },
+ {
+   "County": "Bronx",
+   "State": "NY",
+   "Confirmed Deaths": "5,369"
+ },
+ {
+   "County": "Miami-Dade",
+   "State": "FL",
+   "Confirmed Deaths": "4,768"
+ },
+ {
+   "County": "Harris",
+   "State": "TX",
+   "Confirmed Deaths": "4,111"
+ },
+ {
+   "County": "Wayne",
+   "State": "MI",
+   "Confirmed Deaths": "3,947"
+ },
+ {
+   "County": "New York",
+   "State": "NY",
+   "Confirmed Deaths": "3,535"
+ },
+ {
+   "County": "Clark",
+   "State": "NV",
+   "Confirmed Deaths": "3,164"
+ },
+ {
+   "County": "Middlesex",
+   "State": "NY",
+   "Confirmed Deaths": "3,065"
+ },
+ {
+   "County": "Riverside",
+   "State": "CA",
+   "Confirmed Deaths": "3,003"
+ },
+
+ {
+   "County": "Philadelphia",
+   "State": "PA",
+   "Confirmed Deaths": "2,845"
+ },
+
+ {
+  "County": "Orange",
+  "State": "CA",
+  "Confirmed Deaths": "2,839"
+},
+ {
+   "County": "Suffolk",
+   "State": "NY",
+   "Confirmed Deaths": "2,739"
+ },
+ {
+  "County": "Dallas",
+  "State": "TX",
+  "Confirmed Deaths": "2,715"
+},
+ {
+   "County": "Nassau",
+   "State": "NY",
+   "Confirmed Deaths": "2,648"
+ },
+ {
+   "County": "Essex",
+   "State": "NJ",
+   "Confirmed Deaths": "2,522"
+ },
+ {
+   "County": "Bergen",
+   "State": "NJ",
+   "Confirmed Deaths": "2,457"
+ }
+]

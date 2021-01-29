@@ -1,0 +1,45 @@
+[
+    {
+        "state": "Alabama",
+        "administered": 202643,
+        "vaccinated": 0,
+        "vaccinatedpercent": 0
+      },
+      {
+        "state": "Arkansas",
+        "administered": 186105,
+        "vaccinated": 0,
+        "vaccinatedpercent": 0
+      },
+      {
+        "state": "California",
+        "administered": 1393224,
+        "vaccinated": 0,
+        "vaccinatedpercent": 0
+      },
+      {
+        "state": "Delaware",
+        "administered": 54760,
+        "vaccinated": 0,
+        "vaccinatedpercent": 0
+      },
+      {
+        "state": "District of Columbia",
+        "administered": 41053,
+        "vaccinated": 0,
+        "vaccinatedpercent": 0
+      },
+      {
+        "state": "Georgia",
+        "administered": 591438,
+        "vaccinated": 0,
+        "vaccinatedpercent": 0
+      },
+      {
+        "state": "Kentucky",
+        "administered": 250867,
+        "vaccinated": 0,
+        "vaccinatedpercent": 0
+      }
+
+]
