@@ -1,6 +1,6 @@
 import React from 'react'
 import Griddle, {plugins} from 'griddle-react'
-import Data from '../data/hospitalbeds2.json'
+import Data from '../data/hospitalbeds3.json'
 
 
 import styles from '../styles/griddle.css'

@@ -39,7 +39,7 @@ export default function Home() {
         </p>
 
         <p> 
-        While working with web applications, having to build some sort of table or grid to visualize data becomes inevitable. Although possible to create web based tables using traditional table tags, managing tables tags can become complex and time consuming. A component library can save a significant amount of time. I opted to use the React Table library to display data from the publicly available datasets sourced from Johns Hopkins, The Center for Disease Control and The New York Times. I leveraged the collection of React hooks to assist with the table builds. Gatsby made it seamless to incorporate the table library into my application.
+        While working with web applications, having to build some sort of table or grid to visualize data becomes inevitable. Although possible to create web based tables using traditional table tags, managing tables tags can become complex and time consuming. A component library can save a significant amount of time. I opted to use the React Table library to display data from the publicly available datasets sourced from Johns Hopkins Coronavirus Resource Center, The Center for Disease Control and Prevention, and The New York Times' coronavirus data repositories. I leveraged the collection of React hooks to assist with the table builds. Gatsby made it seamless to incorporate the table library into my application.
         </p>
         
         <p>
@@ -68,22 +68,22 @@ export default function Home() {
           padding-top: 20px;
        `} 
        >
-         <h3 style={{}}>YTD Cases: 25M+</h3>
-         <h3 style={{color: `red`}}>YTD Deaths: 425K+</h3>
-         <h3 style={{color: `#cc5a71`}}>YTD Hospitalizations: 107K+</h3>    
+         <h3 style={{}}>YTD Cases: 26.5M+</h3>
+         <h3 style={{color: `red`}}>YTD Deaths: 448K+</h3>
+         <h3 style={{color: `#cc5a71`}}>YTD Hospitalizations: 114K+</h3>    
       </div>
 
         <p style={{}}>The US coronavirus pandemic was a significant driver of deaths in 2020. COVID-19 became 
-          the 3rd leading cause of death; lagging heart disease and cancer in 2020. During certain  
+          the third leading cause of death; lagging heart disease and cancer in 2020. During certain  
           periods last year, the virus was the number 1 killer of Americans and eventually 
           helped cement 2020 as the deadliest year in US history. 
           
           Daily death totals for COVID-19 were higher than the 
           number of deaths recorded on 9/11. By the close of December 2020, the virus 
-          claimed over 346 thousand American lives.
+          claimed over three hundred forty six thousand American lives.
         </p>
 
-        <p>As of late January 2021, the virus has claimed the lives of over 429 thousand 
+        <p>As of late January 2021, the virus has claimed the lives of over four hundred twenty nine thousand 
           Americans. The number of Americans that have died 
           from COVID-19 is approximately the population of Tampa, New Orleans, Cincinnati, 
           St. Louis or Pittsburgh. 
@@ -100,7 +100,7 @@ export default function Home() {
            padding-top: ${rhythm(1.0)}; //adding space before Vaccination section
         `}
          >
-          <h1 style={{ textAlign: `center`, }}>Vaccinations </h1>
+          <h1 style={{ textAlign: `center`, }}>Vaccination Rates </h1>
 
           <div 
           css={css`
