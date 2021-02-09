@@ -13,7 +13,7 @@ export const TotalUS = (props) => {
   //structure of the data object
   const data = { 
     labels: ['AK', 'WV', 'ND', 'NM', 'SD', 'CT', 'DC', 'VT', 'OK', 'CO', 'ME',
-             'LA', 'AK', 'IN', 'NY', 'MI', 'MT', 'FL', 'UT', 'OR',  
+             'LA', 'AR', 'IN', 'NY', 'MI', 'MT', 'FL', 'UT', 'OR',  
             ],
     //labels: month, //from function getMonth()
     datasets: [
@@ -66,14 +66,19 @@ export const TotalUS = (props) => {
             'rgba(105, 153, 93, 1)',
           ],
           borderWidth:1.5,
+      
+        legend: {
+          display: false
+        }
       },
+      
       
     ]
   }
 
   const options = {
     title: {
-      display: true,
+      display: true, 
       text: 'State Vaccinations Rate per 100,000'
     },
     
